@@ -85,4 +85,4 @@ public:
 		cout << "Cannot load - would exceed capacity!" << endl;
 		return false;
 	}
-}
+};
